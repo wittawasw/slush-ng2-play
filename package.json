@@ -1,7 +1,7 @@
 {
     "name": "slush-ng2-play",
     "description": "Generator of minimum Angular2 with ES6, based on ng2-play from pkozlowski-opensource ",
-    "version": "0.1.1",
+    "version": "0.1.3",
     "homepage": "https://github.com/wittawasw/slush-ng2-play",
     "author": {
         "name": "Wittawas Wisarnkanchana",

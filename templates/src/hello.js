@@ -1,4 +1,4 @@
-import {Component, View, bootstrap, If} from 'angular2/angular2';
+import {ComponentAnnotation as Component, ViewAnnotation as View, bootstrap, If} from 'angular2/angular2';
 
 @Component({
     selector: 'hello'  //TODO: default to camel-cased class name if not provided?
